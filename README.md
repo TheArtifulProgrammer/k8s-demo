@@ -1,4 +1,4 @@
-### K8s Demo
+### K8s Mini Demo
 
 #### K8s manifest files
 
